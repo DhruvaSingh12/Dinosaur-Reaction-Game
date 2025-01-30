@@ -23,7 +23,7 @@ This is a simple reaction time game where you click on a dinosaur that appears r
 *   Measures reaction time.
 *   Displays individual round times and average reaction time.
 *   Simple and engaging gameplay.
-*   Basic styling with rounded corners on the button.
+*   Basic styling.
 *   Random dinosaur positioning.
 
 ## Technologies Used
